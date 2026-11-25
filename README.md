@@ -32,11 +32,6 @@ I build CMS-driven websites and role-based web apps with React and Next.js, and 
 - **[rental-management-app](https://github.com/Prabhatm09/rental-management-app)**: one-line description, stack, live link
 - **[expense-tracker](https://github.com/Prabhatm09/expense-tracker)**: one-line description, stack, live link
 
-### 📈 GitHub stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Prabhatm09&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatm09&layout=compact&theme=transparent" />
-</p>
 
 ### 🌱 Currently
 Building full-stack projects with Next.js + Node/Express and strengthening my backend skills.
